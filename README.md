@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/chinmay-patil">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/chinmay7016">
+  <a href="https://github.com/chinmayYpatil">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </div>
@@ -30,9 +30,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmay7016&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&theme=github&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=chinmay7016&locale=en&mode=daily&theme=github&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmay7016&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmayYpatil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&theme=github&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=chinmayYpatil&locale=en&mode=daily&theme=github&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmayYpatil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -75,13 +75,13 @@
 <h3>Featured Projects</h3>
 
 <div align="left">
-  <h4>IPO Naut | <a href="https://play.google.com/store/apps/details?id=com.chinmay.iponaut">Play Store</a> | <a href="https://github.com/chinmay7016/IPONaut">GitHub</a></h4>
+  <h4>IPO Naut | <a href="https://play.google.com/store/apps/details?id=com.chinmay.iponaut">Play Store</a> | <a href="https://github.com/chinmayYpatil/IPONaut">GitHub</a></h4>
   <p>Mobile app providing streamlined IPO details using Kotlin, Jetpack Compose, Google Sheets and Apps Script</p>
   
-  <h4>HearSay | <a href="https://github.com/chinmay7016/HearSay">GitHub</a></h4>
+  <h4>HearSay | <a href="https://github.com/chinmayYpatil/HearSay">GitHub</a></h4>
   <p>Smart India Hackathon project - Real-time voice-to-text and text-to-voice translation app for hearing and speech impaired users</p>
   
-  <h4>TalkGPT | <a href="https://github.com/chinmay7016/TalkGPT">GitHub</a></h4>
+  <h4>TalkGPT | <a href="https://github.com/chinmayYpatil/TalkGPT">GitHub</a></h4>
   <p>Q&A app with Gemini SDK featuring memory capabilities and advanced NLP techniques</p>
 </div>
 
@@ -100,5 +100,6 @@
 <br clear="both">
 
 <h3>GitHub Contributions</h3>
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/chinmayYpatil/chinmayYpatil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 ###
