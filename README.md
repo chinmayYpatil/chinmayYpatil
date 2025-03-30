@@ -20,8 +20,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinmayYpatil/chinmayYpatil/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinmayYpatil/chinmayYpatil/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chinmayYpatil/chinmayYpatil/output/github-snake.svg" />
-</picture>
+<h3>Github Contributions</h3>
+<img src="https://raw.githubusercontent.com/arunimabarik75/arunimabarik75/output/github-contribution-grid-snake.svg" alt="Snake animation" />
