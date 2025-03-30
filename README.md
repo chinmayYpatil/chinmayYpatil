@@ -100,6 +100,5 @@
 <br clear="both">
 
 <h3>GitHub Contributions</h3>
-<img src="https://raw.githubusercontent.com/chinmay7016/chinmay7016/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 ###
