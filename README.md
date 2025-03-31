@@ -1,4 +1,4 @@
-                                                                                                                        # 💫 About Me:
+# 💫 About Me:
 🎓 Pursuing B.Tech in Information and Communication Technology at Pandit Deendayal Energy University (2022-2026)<br><br>🔭 I'm currently working as a **Software Development Intern at Namo Advisors**<br><br>🌱 I'm currently learning **Jetpack Compose, Kotlin Best Practices, and Cross-Platform Development**<br><br>💼 Previously worked at **Reliance Industries Ltd.** and **ElkDocs** as a Software Engineering Intern<br><br>📱 Published app on **Play Store**: [IPO Naut](https://play.google.com/store/apps/details?id=com.chinmay.iponaut)<br><br>📫 Reach me at **chinmay7016@gmail.com**<br><br>🏠 Based in **Gandhinagar, Gujarat, India**
 
 
